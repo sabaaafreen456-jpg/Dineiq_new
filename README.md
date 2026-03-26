@@ -77,6 +77,3 @@ Debug APKs have been generated for both apps:
 - Decide whether the main SQLite database file should be committed or treated as local runtime data.
 - Create a new branch from `pre_main` before committing and pushing.
 
-## Suggested Next Step
-
-Create a new feature branch from `pre_main`, review the staged file list carefully, and then push the cleaned integration branch to GitHub.
